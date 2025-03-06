@@ -1,0 +1,7 @@
+streamlit
+pytube 
+moviepy
+youtube-transcript-api
+langchain
+openai
+-e .
