@@ -76,17 +76,6 @@ streamlit run app.py
 4. Review the AI-generated responses
 5. Ask follow-up questions for more information
 
-## Limitations
-- Works only with YouTube videos that have available transcripts
-- Quality of responses depends on the quality and accuracy of the video transcript
-- Processing long videos may take more time and resources
-
-## Future Improvements
-- Support for more video platforms beyond YouTube
-- Audio extraction and transcription for videos without existing transcripts
-- Visual content analysis to incorporate information from the video imagery
-- User authentication and saved conversation history
-- Transcript correction and improvement tools
 
 ## License
 MIT LICENCE
